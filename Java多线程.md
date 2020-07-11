@@ -30,7 +30,7 @@
 
 ###   1.继承Thread
 
-![image-20200502192141925](Java多线程.assets/image-20200502192141925.png)
+![image-20200502192141925](image/image-20200502192141925.png)
 
 ```java
 
